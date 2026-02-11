@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 
-- Sou etudante na escola ETEC
--->
+-
+-->Sou estudante da escola ETEC
